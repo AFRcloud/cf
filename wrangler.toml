@@ -1,53 +1,91 @@
-name = "id" # todo
+name = "sg1" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "_worker.js"
+main = "_workera.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "id.afrcloud.xyz"
+pattern = "sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.id.afrcloud.xyz"
+pattern = "mssdk24-normal-useast2a.tiktokv.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.id.afrcloud.xyz"
+pattern = "ava.game.naver.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "cache.netlix.com.id.afrcloud.xyz" 
+pattern = "app.genflix.co.id.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "blue.blibli.com.id.afrcloud.xyz"
+pattern = "app.gopay.co.id.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "mssdk24-normal-useast2a.tiktokv.com.id.afrcloud.xyz"
+pattern = "blue.blibli.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "app.genflix.co.id.id.afrcloud.xyz"
+pattern = "zaintest.vuclip.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "m.pubgmobile.com.id.afrcloud.xyz"
+pattern = "cache.netflix.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.id.afrcloud.xyz"
+pattern = "graph.instagram.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "dl.cvs.freefiremobile.com.id.afrcloud.xyz"
+pattern = "investor.fb.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "web.poe.garena.com.id.afrcloud.xyz"
+pattern = "investors.spotify.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.id.afrcloud.xyz"
+pattern = "m.pubgmobile.com.sg1.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "s.youtube.com.id.afrcloud.xyz"
+pattern = "m.mobilelegends.com.sg1.afrcloud.xyz"
 custom_domain = true
-
+[[routes]]
+pattern = "web.poe.garena.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "dl.cvs.freefiremobile.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "m.googlevideo.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "s.youtube.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "test.noice.id.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "support.zoom.us.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "img.email1.vidio.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "quiz.staging.vidio.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "quiz.int.vidio.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "blog.webex.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "cdn.appsflayer.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "cdn.appsflayer.com.sg1.afrcloud.xyz"
+custom_domain = true
+[[routes]]
+pattern = "app.genflix.com.sg1.afrcloud.xyz"
+custom_domain = true
 
 [vars]
-# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
-# PROXYIP = "1.2.3.4"
+# UUID = "2aeee1cd-954a-4f69-b2c0-2de59511707b"
+# PROXYIP = "138.2.104.102"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
